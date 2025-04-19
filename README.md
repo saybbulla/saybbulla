@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Saybbulla!
 
-<!--
-**saybbulla/saybbulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate Data Scientist | Python Developer | Software Developer| Low-code Enthusiast
 
-Here are some ideas to get you started:
+🚀 Skills:
+- Python | Flask | Pandas | PostgreSQL
+- Web Development (HTML, CSS, JavaScript)
+- Mendix Low-code Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and building cool tech projects!
+
+💬 Let's connect and grow together:
+- LinkedIn: [Saybbulla LinkedIn](https://www.linkedin.com/in/s-b-saybbulla/)
+- GitHub: [saybbulla](https://github.com/saybbulla)
+
+🔭 Focused on: Data Science and ML projects , Python Projects, and Low-code Solutions!
