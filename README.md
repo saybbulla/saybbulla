@@ -3,11 +3,14 @@
 🎯 A passionate Data Scientist | Python Developer | Software Developer| Low-code Enthusiast
 
 🚀 Skills:
-- Python | Flask | Pandas | PostgreSQL
-- Web Development (HTML, CSS, JavaScript)
-- Mendix Low-code Development
+- Python | NumPy | Pandas | Matplotlib | SQL (PostgreSQL)
+- Data Analysis | Data Visualization | Machine Learning Basics
+- Web Development (Flask) | Low-code Development (Mendix)
 
-🌱 Currently learning and building cool tech projects!
+🌱 Currently working on:
+- Machine Learning mini-projects
+- Data Visualization Dashboards
+- Real-world Data Analysis Projects
 
 💬 Let's connect and grow together:
 - LinkedIn: [Saybbulla LinkedIn](https://www.linkedin.com/in/s-b-saybbulla/)
