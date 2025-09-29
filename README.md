@@ -3,7 +3,7 @@
 🎯 A passionate Data Scientist | Python Developer | Software Developer| Low-code Enthusiast
 
 🚀 Skills:
-- Python | NumPy | Pandas | Matplotlib | SQL (PostgreSQL)
+- Python | NumPy | Pandas | Matplotlib | ScikitL Learn | NLP | Tensorflow | SQL 
 - Data Analysis | Data Visualization | Machine Learning Basics
 - Web Development (Flask) | Low-code Development (Mendix)
 
